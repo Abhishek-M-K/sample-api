@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "64f5e524dcf43cf0e981ca4a",
+    "id": "1001",
+    "name": "Abhishek",
+    "age": 20,
+    "email": "abc@gmail.com",
+    "department": "comp",
+    "phone": "1234567890",
+    "__v": 0
+  },
+  {
+    "_id": "64f5e5bcdcf43cf0e981ca4c",
+    "id": "1103",
+    "name": "Elon",
+    "age": 43,
+    "email": "elon@gmail.com",
+    "department": "R&D",
+    "phone": "7894561230",
+    "__v": 0
+  },
+  {
+    "_id": "64f5e5e1dcf43cf0e981ca4e",
+    "id": "4560",
+    "name": "Junie",
+    "age": 34,
+    "email": "jnu@gmail.com",
+    "department": "api-integration",
+    "phone": "1111111110",
+    "__v": 0
+  },
+  {
+    "_id": "64f5ebc6e1e86f86d5c6c146",
+    "id": "33321",
+    "name": "Steven Troy",
+    "age": 28,
+    "email": "stev@gmail.com",
+    "department": "scaling",
+    "phone": "0000000012",
+    "__v": 0
+  }
+]
