@@ -36,7 +36,7 @@ app.post("/employee", async (req, res) => {
   }
 });
 
-//get all EMPLOYEES
+//get all EMPLOYEES and STORE THE DATA IN .json FILE
 app.get("/employee", async (req, res) => {
   try {
     const employee = await Employee.find();
